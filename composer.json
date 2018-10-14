@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Calf\\": "src/Calf/"
+            "Saddle\\": "src/Saddle/"
         }
     }
 }
